@@ -1,0 +1,8 @@
+[
+    {
+        "ticket_id": 1,
+        "description": "Compuer is moving slow after updating the teams app.",
+        "status": "Resolved",
+        "created_at": "2025-09-07 17:13:59"
+    }
+]

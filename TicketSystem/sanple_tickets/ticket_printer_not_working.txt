@@ -1,0 +1,8 @@
+[
+    {
+        "ticket_id": 1,
+        "description": "Printer is not working. Think it might be jammed.",
+        "status": "Resolved",
+        "created_at": "2025-09-07 17:10:49"
+    }
+]
