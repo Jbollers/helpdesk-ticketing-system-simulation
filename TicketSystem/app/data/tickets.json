@@ -1,0 +1,8 @@
+[
+    {
+        "ticket_id": 1,
+        "description": "My computer is running slow",
+        "status": "Open",
+        "created_at": "2025-07-15 08:06:18"
+    }
+]
